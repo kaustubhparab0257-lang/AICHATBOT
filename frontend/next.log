@@ -1,0 +1,12 @@
+
+> frontend@0.1.0 dev
+> next dev
+
+▲ Next.js 16.2.6 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.195.1:3000
+✓ Ready in 616ms
+Creating turbopack project { dir: 'D:\\AICHATBOT\\frontend', testMode: true }
+
+ GET / 200 in 483ms (next.js: 217ms, application-code: 267ms)
+ GET / 200 in 107ms (next.js: 14ms, application-code: 93ms)
